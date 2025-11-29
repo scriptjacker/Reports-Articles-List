@@ -11,7 +11,7 @@
 
 5. Leaked **Authorization** token - https://hackerone.com/reports/246995
 
-6. Credentials in **URL** - https://hackerone.com/reports/412772
+6. Credentials in *URL* - https://hackerone.com/reports/412772
 
 7. **MAPBOX** and **Google Maps API** Keys exposed - https://hackerone.com/reports/753868 (In strings.xml - res/values)
 
