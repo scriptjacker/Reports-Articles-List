@@ -19,7 +19,10 @@
 
 9. leaked *OAuth Response Code* with client_secret - https://hackerone.com/reports/5314 (Via logcat)
 
-**10.** leaked *password string* https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/ - (In .java file) 
+**10.** leaked *password string* - https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/ (In .java file)
+
+**11.** *Bucket API* key leaked - https://medium.com/@pig.wig45/from-n-a-to-resolved-for-backblaze-android-app-hackerone-platform-bucket-takeover-f817692a590 (chaining bugs) 
+
 
 
 
