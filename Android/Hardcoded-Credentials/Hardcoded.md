@@ -13,11 +13,13 @@
 
 6. Credentials in *URL* - https://hackerone.com/reports/412772
 
-7. *MAPBOX* & *Google Maps API* Keys exposed - https://hackerone.com/reports/753868 (In strings.xml - res/values)
+**7.** *MAPBOX* & *Google Maps API* Keys exposed - https://hackerone.com/reports/753868 (In strings.xml - res/values)
 
 8. *Stripe* & *Google Maps API* leaked - https://hackerone.com/reports/792850 (In strings.xml - res/values)
 
 9. leaked *OAuth Response Code* with client_secret - https://hackerone.com/reports/5314 (Via logcat)
+
+**10.** leaked *password string* https://blog.securitybreached.org/2020/02/19/hacking-sms-api-service-provider-of-a-company-android-app-static-security-analysis-bug-bounty-poc/ - (In .java file) 
 
 
 
