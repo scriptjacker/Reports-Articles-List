@@ -25,6 +25,8 @@
 
 **12.** *finAPI client_secret* leaked - https://omespino.com/write-up-finapi-open-banking-api-oauth-credentials-exposed-in-plain-text-in-android-app/ (using grep command)
 
+**13.** leaked *Client Secret* - https://medium.com/@protostar0/hacking-bank-the-second-story-of-finding-critical-vulnerabilities-on-banking-application-ac20cd8f3dad (In .dll & c# file)
+
 
 
 
