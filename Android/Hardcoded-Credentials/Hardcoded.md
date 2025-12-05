@@ -27,7 +27,7 @@
 
 **13.** leaked *Client Secret* - https://medium.com/@protostar0/hacking-bank-the-second-story-of-finding-critical-vulnerabilities-on-banking-application-ac20cd8f3dad (In .dll & c# file)
 
-
+**14.** leaked *API* key & enryption - https://emptynebuli.github.io/tooling/2021/03/22/rustyiron.html (In .java file)
 
 
 
