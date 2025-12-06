@@ -29,6 +29,8 @@
 
 **14.** leaked *API* key & enryption - https://emptynebuli.github.io/tooling/2021/03/22/rustyiron.html (In .java file)
 
+15. Token Accessable in Request Header - https://www.vaadata.com/blog/insecure-authentication-tokens-leading-to-account-takeover/
+
 
 
 
