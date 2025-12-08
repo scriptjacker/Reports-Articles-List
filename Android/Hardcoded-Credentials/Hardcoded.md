@@ -33,5 +33,5 @@
 
 **16.** Breaking encryption & Chaning & Creds - https://ahmdhalabi.medium.com/the-art-of-chaining-vulnerabilities-e65382b7c627 (In .so file, Ghidra/IDA Pro)
 
-
+**17.** Hardcoded *key and IV* break *AES* Encryption - https://blog.dixitaditya.com/manipulating-aes-traffic-using-a-chain-of-proxies-and-hardcoded-keys (In .java & native)
 
