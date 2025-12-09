@@ -1,5 +1,7 @@
 #### This category can be also known as or come under Information Disclosure, Hard-coded Credentials, Sensitive Information Disclosure, Cleartext Storage of Sensitive Information, Harcoded APIs, etc. So, we can create dorks according to that.
 
+#### CWE-798: Use of Hard-coded Credentials
+
 
 **1.** Discosure of Upload files of *Cloudinary* - https://hackerone.com/reports/351555 (In Java File)
 
