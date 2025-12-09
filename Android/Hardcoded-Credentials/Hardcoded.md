@@ -35,3 +35,5 @@
 
 **17.** Hardcoded *key and IV* break *AES* Encryption - https://blog.dixitaditya.com/manipulating-aes-traffic-using-a-chain-of-proxies-and-hardcoded-keys (In .java & native)
 
+18. Hardcoded Key using Regex, Tools - https://blog.ostorlab.co/hardcoded-secrets.html
+
