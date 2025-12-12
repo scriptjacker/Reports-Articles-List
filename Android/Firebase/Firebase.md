@@ -7,3 +7,7 @@ This will include bugs related to misconfiguration and leaked firebase file.
 2. Firebase DB Takover - https://hackerone.com/reports/684099 (In strings.xml)
 
 3. Firebase DB Exposed - https://hackerone.com/reports/731724 
+
+4. Firebase DB misconfigured - https://omespino.com/write-up-private-bug-bounty-firebase-database-exposed-by-misconfiguration-2000-usd/
+
+5. Firebase DB *Exploitation* - https://blog.securitybreached.org/2020/02/04/exploiting-insecure-firebase-database-bugbounty/
