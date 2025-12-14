@@ -1,5 +1,7 @@
 This will include bugs related to misconfiguration and leaked firebase file.
 
+Try replacing firebase.io with appspot.com as applications also use that.
+
 #### This can be find in `res/values/strings.xml` and can search for firebaseio or firebase.io or firebase or firebase_database in that file or in the app after reversing the code.
 
 1. *Firebase* DB takeover - https://hackerone.com/reports/1065134 (In strings.xml)
