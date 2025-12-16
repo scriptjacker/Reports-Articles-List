@@ -11,4 +11,6 @@
 
 3. Theft of arbitrary files - https://hackerone.com/reports/288955 (In AndroidManifest.xml and .Java)
 
-4. 
+4. Open Redirect/XSS via exported activity - https://hackerone.com/reports/283058
+
+5. XSS in exported ImageViewerActivity - https://hackerone.com/reports/283063 
