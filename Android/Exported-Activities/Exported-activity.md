@@ -14,3 +14,8 @@
 4. Open Redirect/XSS via exported activity - https://hackerone.com/reports/283058
 
 5. XSS in exported ImageViewerActivity - https://hackerone.com/reports/283063 
+
+6. Theft of arbitrary file - https://hackerone.com/reports/1094702
+
+**7.** Universal XSS in webview via exported activity - https://hackerone.com/reports/1455987
+
