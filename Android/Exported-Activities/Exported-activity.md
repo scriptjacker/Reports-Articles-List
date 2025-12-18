@@ -19,3 +19,4 @@
 
 **7.** Universal XSS in webview via exported activity - https://hackerone.com/reports/1455987
 
+**8.** Exported activites allow load internal webview leads cookie stealing - https://hackerone.com/reports/532836 
