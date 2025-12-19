@@ -28,3 +28,7 @@
 10. Private application files can be uploaded/downloaded - https://hackerone.com/reports/375083
 
 11. Malicious URL parse via exported activity WebView - https://hackerone.com/reports/694053
+
+**12.** Exported Acitvity accept malicious Intent URI - https://hackerone.com/reports/537670
+
+**13.** Theft of protected files by exported activity - https://hackerone.com/reports/1454002
