@@ -4,6 +4,8 @@
 
 ##### Almost every bug will be related to Android Manifest.xml and .Java file
 
+##### Activities listed in <intent-filter> in androidmanifest.xml is consider exported by default and no need to be set as explicitly set android:exported="true" 
+
 
 1. Steal protected files via Exported Activity - https://hackerone.com/reports/377107 (In AndroidManifest.xml File)
 
@@ -20,3 +22,9 @@
 **7.** Universal XSS in webview via exported activity - https://hackerone.com/reports/1455987
 
 **8.** Exported activites allow load internal webview leads cookie stealing - https://hackerone.com/reports/532836 
+
+**9.** Access to andorid any protected component - https://hackerone.com/reports/200427 (Intents)
+
+10. Private application files can be uploaded/downloaded - https://hackerone.com/reports/375083
+
+11. Malicious URL parse via exported activity WebView - https://hackerone.com/reports/694053
