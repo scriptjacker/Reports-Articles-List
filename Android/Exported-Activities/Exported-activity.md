@@ -32,3 +32,5 @@
 **12.** Exported Acitvity accept malicious Intent URI - https://hackerone.com/reports/537670
 
 **13.** Theft of protected files by exported activity - https://hackerone.com/reports/1454002
+
+**14.** Exported Acivity allow to save things - https://infosecwriteups.com/exploiting-activity-in-medium-android-app-e2e6f3553eef
