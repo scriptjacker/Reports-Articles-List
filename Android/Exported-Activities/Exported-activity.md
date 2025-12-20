@@ -34,3 +34,5 @@
 **13.** Theft of protected files by exported activity - https://hackerone.com/reports/1454002
 
 **14.** Exported Acivity allow to save things - https://infosecwriteups.com/exploiting-activity-in-medium-android-app-e2e6f3553eef
+
+**15.** ATO & XSS via Exported Activity and Webview - https://medium.com/@AlQa3Qa3_M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80
