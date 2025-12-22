@@ -2,4 +2,6 @@
 
 2. App stores data using binary sqlite database - https://hackerone.com/reports/57918
 
+**3.** Insecure storage leads download cookie - https://hackerone.com/reports/876192
+
 
