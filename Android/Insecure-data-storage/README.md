@@ -4,4 +4,4 @@
 
 **3.** Insecure storage leads download cookie - https://hackerone.com/reports/876192
 
-
+4. Leaked password in Shareed Preferences - https://www.rapid7.com/blog/post/2024/01/03/genie-aladdin-connect-retrofit-garage-door-opener-multiple-vulnerabilities/ (In /data/data/com.eg/shared_prefs/com.eg.MainActivity.xml)
