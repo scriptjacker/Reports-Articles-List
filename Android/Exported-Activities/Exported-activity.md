@@ -4,7 +4,7 @@
 
 ##### Almost every bug will be related to Android Manifest.xml and .Java file
 
-##### Activities listed in <intent-filter> in androidmanifest.xml is consider exported by default and no need to be set as explicitly set android:exported="true" 
+##### Activities listed in &lt;intent-filter&gt; in androidmanifest.xml is consider exported by default and no need to be set as explicitly set android:exported="true" 
 
 
 1. Steal protected files via Exported Activity - https://hackerone.com/reports/377107 (In AndroidManifest.xml File)
