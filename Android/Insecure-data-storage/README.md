@@ -1,3 +1,9 @@
+##### R/W in external or internal storage
+##### sensitive data in logs
+##### sensitive data via notification
+##### sensitive data via clipboard
+##### sensitive data in Internal Storage
+
 **1.** WebView storing third party info in plain text - https://hackerone.com/reports/44727 (In /data/data/co.app_name.android/databases/db_name.db)
 
 2. App stores data using binary sqlite database - https://hackerone.com/reports/57918
