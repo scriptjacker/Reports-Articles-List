@@ -1,8 +1,9 @@
-##### R/W in external or internal storage
-##### sensitive data in logs
-##### sensitive data via notification
-##### sensitive data via clipboard
-##### sensitive data in Internal Storage
+###### R/W in external or internal storage
+###### sensitive data in logs
+###### sensitive data via notification
+###### sensitive data via clipboard
+###### sensitive data in Internal Storage
+###### SQLITE DB & Shared Prefs
 
 
 
