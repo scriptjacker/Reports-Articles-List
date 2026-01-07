@@ -6,3 +6,5 @@
 
 **4.** UXSS via webview & CVE-2020-6506 - https://hackerone.com/reports/906433 (In /com/twitter/android/revenue/BrowserWithDockedVideoActivity.class)
 
+**5.** CVE-2020-6506 - https://alesandroortiz.com/articles/uxss-android-webview-cve-2020-6506/#how-to-identify-vulnerable-apps (Nice one :) )
+
