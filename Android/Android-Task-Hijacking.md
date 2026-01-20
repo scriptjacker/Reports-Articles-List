@@ -10,3 +10,7 @@
 • Task: These activities together form a task, and as the user navigates through them.
 
 • Back Stack: The back stack stores the history of these activities, allowing the user to navigate back through the task.
+
+#### How to identify if application is Vulnerable to Task Hijacking?
+1. Launch Mode is android:launchMode=”singleTask”
+2. Minimum SDK Version < 30 (app may not have protections against task hijacking bugs)
