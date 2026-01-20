@@ -18,7 +18,6 @@
 #### How to identify if application is Vulnerable to Task Hijacking?
 1. Launch Mode is android:launchMode=”singleTask”
 2. Minimum SDK Version < 30 (Android 11) (app may not have protections against task hijacking bugs)
-3. https://medium.com/@ashirkul/task-hijacking-in-android-609640f94676
 
 There are two types StrandHogg 1.0 and StrandHogg 2.0
 strandHogg 2.0 is having CVE CVE-2020-0096 and is advanced and more critical and complex version of Android Task Hijacking
@@ -27,7 +26,7 @@ strandHogg 2.0 is having CVE CVE-2020-0096 and is advanced and more critical and
 #### Task Hijacking (StrandHogg 1.0)
 1. https://www.helpnetsecurity.com/2019/12/03/strandhogg-vulnerability/
 2. https://hackerone.com/reports/1325649
-
+3. https://medium.com/@ashirkul/task-hijacking-in-android-609640f94676
 
 #### StrandHogg 2.0 (CVE-2020-0096)
 1. https://www.helpnetsecurity.com/2020/05/28/cve-2020-0096/
