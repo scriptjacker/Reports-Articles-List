@@ -6,6 +6,9 @@
 ##### Part 1 - https://redfoxsec.com/blog/task-hijacking-strandhogg-part1/
 ##### Part 2 - https://redfoxsec.com/blog/task-hijacking-strandhogg-part-2/
 
+##### Part 1 - https://redfoxsecurity.medium.com/task-hijacking-strandhogg-part-1-understanding-the-fundamentals-89792424fef5
+##### Part 2 - https://redfoxsecurity.medium.com/task-hijacking-strandhogg-part-2-a-deeper-dive-into-androids-activity-manipulation-ee7bf8e36ef0
+
 • Activities: There are four activities in the app MainActivity as the root activity, and LoginActivity, DashboardActivity, and SettingsActivity as other activities.
 
 • Task: These activities together form a task, and as the user navigates through them.
@@ -22,6 +25,7 @@ strandHogg 2.0 is having CVE CVE-2020-0096 and is advanced and more critical and
 
 #### Task Hijacking (StrandHogg 1.0)
 1. https://www.helpnetsecurity.com/2019/12/03/strandhogg-vulnerability/
+2. https://hackerone.com/reports/1325649
 
 
 #### StrandHogg 2.0 (CVE-2020-0096)
