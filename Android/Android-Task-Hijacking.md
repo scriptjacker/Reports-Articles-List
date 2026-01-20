@@ -21,6 +21,8 @@ strandHogg 2.0 is having CVE CVE-2020-0096 and is advanced and more critical and
 
 
 #### Task Hijacking (StrandHogg 1.0)
+1. https://www.helpnetsecurity.com/2019/12/03/strandhogg-vulnerability/
 
 
 #### StrandHogg 2.0 (CVE-2020-0096)
+1. https://www.helpnetsecurity.com/2020/05/28/cve-2020-0096/
