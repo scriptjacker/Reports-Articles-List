@@ -27,6 +27,11 @@ strandHogg 2.0 is having CVE CVE-2020-0096 and is advanced and more critical and
 1. https://www.helpnetsecurity.com/2019/12/03/strandhogg-vulnerability/
 2. https://hackerone.com/reports/1325649
 3. https://medium.com/@ashirkul/task-hijacking-in-android-609640f94676
+4. https://www.sidi.org.br/en/blog/strandhogg-hijacking-android-applications
 
 #### StrandHogg 2.0 (CVE-2020-0096)
 1. https://www.helpnetsecurity.com/2020/05/28/cve-2020-0096/
+
+
+##### References
+https://developer.android.com/guide/components/activities/tasks-and-back-stack
