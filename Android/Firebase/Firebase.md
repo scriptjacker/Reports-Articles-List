@@ -19,3 +19,5 @@ Try replacing firebase.io with appspot.com as applications also use that.
 7. *Firebase DB Enumeration & Ways* - https://raw.githubusercontent.com/sahad-mk/FireVu/master/Documents/Misconfigured%20Firebase%20Database.pdf (NICE ONE)
 
 8. *Firebase DB Enumeration & Ways (FIRESTORE)* - https://medium.com/@mustafamohammed789mm/firebase-misconfigurations-from-discovery-to-exploitation-0a282b81ad4f
+
+9. https://github.com/tauh33dkhan/Hacking-Insecure-Firebase-Database?source=post_page-----e682ec4239d6---------------------------------------
