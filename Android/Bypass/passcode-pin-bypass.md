@@ -8,3 +8,5 @@
 4. Using app functionality to bypass - https://infosecwriteups.com/whatsapp-bug-bounty-bypassing-biometric-authentication-using-voip-87548ef7a0ba
 
 5. *Bypass via ADB and Deeplink* - https://infosecwriteups.com/bypass-of-biometrics-password-security-functionality-for-android-8e0174ac7cac (Nice)
+
+6. Bypass via manipulation with system time - https://hackerone.com/reports/1126414
