@@ -12,3 +12,5 @@
 5. Bypass via Authenticated API requested - https://medium.com/@elkpir666/interesting-bug-bounty-findings-i-found-in-android-application-3fa75b69cb19
 
 6. *Bypass via race condition and ADB* - https://medium.com/@security-researchers/protecting-microsoft-teams-android-for-free-cve-2023-xxxxx-d6c8e34366d0
+
+7. *Bypass via ADB & Deeplink* - https://infosecwriteups.com/bypass-of-biometrics-password-security-functionality-for-android-8e0174ac7cac (MainActivity)
