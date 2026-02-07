@@ -20,3 +20,5 @@
 10. Bypass via calling Exported activity - https://hackerone.com/reports/50884
 
 11. Bypass via rate limit bypass by manipulating time - https://hackerone.com/reports/1242212
+
+12. PIN bypass via rate limit bypass - https://balook.medium.com/android-pin-bypass-with-rate-limiting-a3f5dd811715
