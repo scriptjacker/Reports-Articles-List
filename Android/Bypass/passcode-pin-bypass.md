@@ -22,3 +22,5 @@
 11. Bypass via rate limit bypass by manipulating time - https://hackerone.com/reports/1242212
 
 12. PIN bypass via rate limit bypass - https://balook.medium.com/android-pin-bypass-with-rate-limiting-a3f5dd811715
+
+13. Bypass via race condition - https://balook.medium.com/creative-android-pin-bypass-with-race-conditon-63a8bc3f0e31
