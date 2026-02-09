@@ -1,9 +1,4 @@
-###### R/W in external or internal storage
-###### sensitive data in logs
-###### sensitive data via notification
-###### sensitive data via clipboard
-###### sensitive data in Internal Storage
-###### SQLITE DB & Shared Prefs
+It can be in many places like `R/W in external or internal storage`, `sensitive data in logs`, `sensitive data via notification`, `sensitive data via clipboard`, `sensitive data in Internal Storage`, `SQLITE DB or Unencrypted DB`, `Sensitive Info in Shared Prefs`, `Hardcoded secrets`.
 
 
 
