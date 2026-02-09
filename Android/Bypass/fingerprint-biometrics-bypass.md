@@ -14,3 +14,14 @@
 6. *Bypass via race condition and ADB* - https://medium.com/@security-researchers/protecting-microsoft-teams-android-for-free-cve-2023-xxxxx-d6c8e34366d0
 
 7. *Bypass via ADB & Deeplink* - https://infosecwriteups.com/bypass-of-biometrics-password-security-functionality-for-android-8e0174ac7cac (MainActivity)
+
+
+#### Runtime Bypass via Frida / Objection
+
+8. fingerprint auth bypass via frida - https://medium.com/@ashishf6/exploiting-android-fingerprint-authentication-25dd9263bd74
+
+#### Frida Scripts
+
+Universal Biometrics Bypass `https://codeshare.frida.re/@ax/universal-android-biometric-bypass/`
+
+FingerPrint bypass and other - `https://github.com/ReversecLabs/android-keystore-audit/tree/master/frida-scripts`
