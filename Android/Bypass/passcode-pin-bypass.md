@@ -24,3 +24,8 @@
 12. PIN bypass via rate limit bypass - https://balook.medium.com/android-pin-bypass-with-rate-limiting-a3f5dd811715
 
 13. Bypass via race condition - https://balook.medium.com/creative-android-pin-bypass-with-race-conditon-63a8bc3f0e31
+
+
+#### Runtime Bypass using frida/objection
+
+14. *Code bruteforce via fria & force function to always return true* - https://medium.com/@abdemostafa00/pin-bypass-challenge-allsafe-app-f588c130e83e
