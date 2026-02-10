@@ -29,11 +29,13 @@
 
 15. Pin bypass via rate limit bypass creative method - https://balook.medium.com/android-pin-bypass-with-rate-limiting-a3f5dd811715
 
+16. Bypass via sharedprefs and removing xml file - https://medium.com/sourav-sahana/bypass-mobile-pin-verification-d2c571afa3aa
+
 
 #### Runtime Bypass using frida/objection
 
-16. *Code bruteforce via fria & force function to always return true* - https://medium.com/@abdemostafa00/pin-bypass-challenge-allsafe-app-f588c130e83e
+17. *Code bruteforce via fria & force function to always return true* - https://medium.com/@abdemostafa00/pin-bypass-challenge-allsafe-app-f588c130e83e
 
-17. Bypass via frida bruteforce & exported activites - https://can-ozkan.medium.com/first-experiments-with-frida-sieve-apk-authentication-bypass-1bc1bc5ddf06
+18. Bypass via frida bruteforce & exported activites - https://can-ozkan.medium.com/first-experiments-with-frida-sieve-apk-authentication-bypass-1bc1bc5ddf06
 
-18. CVE-2025–57197 & frida hooki to return non null value (true) - https://medium.com/@Oxsec/cve-2025-57197-breaking-the-pin-in-payeers-android-app-31e3cdee02ef
+19. CVE-2025–57197 & frida hooki to return non null value (true) - https://medium.com/@Oxsec/cve-2025-57197-breaking-the-pin-in-payeers-android-app-31e3cdee02ef
