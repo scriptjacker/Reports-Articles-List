@@ -14,7 +14,7 @@ It can be in many places like `R/W in external or internal storage`, `sensitive 
 
 6. leaked creds in shared prefs - https://medium.com/@tirthshah23/insecure-data-storage-83c35bc0b0b2
 
-7. In shared prefs, sqlite db, external storage - https://medium.com/@kushyadav2708/android-application-security-part4-insecure-data-storage-6dee5775b97d
+7. In shared prefs, sqlite db (Unencrypted database), external storage - https://medium.com/@kushyadav2708/android-application-security-part4-insecure-data-storage-6dee5775b97d
 
 8. In file storage - https://pallabjyoti218.medium.com/android-insecure-file-storage-e770eed9a3fa (/data/data/app/files)
 
