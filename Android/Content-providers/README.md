@@ -1,5 +1,10 @@
 ### If you think its exported or vulnerable then simply try to access it and same with other components and then create a PoC app and done :)
 
+#### There can be android:grantUriPermissions="true" also other then exported. If exported=flase stil we can take advantage of granturi
+
+grantUriPermissions - This indicates that any third-party entity can still gain temporary read/write access to the content provider's data.
+
+
 **1.** Misconfigured Content Provider leads steal cookie and download malicious file  - https://hackerone.com/reports/876192
 
 2. Client all request response leakage - https://hackerone.com/reports/56002
@@ -13,3 +18,7 @@
 6. SQLi in content provider - https://hackerone.com/reports/1650264
 
 7. Exploitation of exported content provider to ATO - https://medium.com/@ahmedelmorsy312/unsecure-content-provider-led-to-account-takeover-1e45d716bd7c
+
+8. Steal wifi password via exported - https://vishwarajbhattrai.wordpress.com/2020/08/16/disclosing-wifi-password-via-content-provider-injection-in-xiaomi/
+
+**9.** Gaining contorl on protected content provider (exported=false) - https://blog.mzfr.me/posts/2021-06-24-unexported-component/ 
