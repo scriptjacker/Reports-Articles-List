@@ -1,4 +1,4 @@
-##### If you think its exported or vulnerable then simply try to access it and same with other components and then create a PoC app and done :)
+### If you think its exported or vulnerable then simply try to access it and same with other components and then create a PoC app and done :)
 
 **1.** Misconfigured Content Provider leads steal cookie and download malicious file  - https://hackerone.com/reports/876192
 
