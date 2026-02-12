@@ -22,3 +22,5 @@ grantUriPermissions - This indicates that any third-party entity can still gain 
 8. Steal wifi password via exported - https://vishwarajbhattrai.wordpress.com/2020/08/16/disclosing-wifi-password-via-content-provider-injection-in-xiaomi/
 
 **9.** Gaining contorl on protected content provider (exported=false) - https://blog.mzfr.me/posts/2021-06-24-unexported-component/ 
+
+**10.** Content provider exploitation ways - https://wiki.mzfr.me/Android/Content_Providers/ (NICE)
