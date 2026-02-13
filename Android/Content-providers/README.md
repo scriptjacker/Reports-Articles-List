@@ -24,3 +24,5 @@ grantUriPermissions - This indicates that any third-party entity can still gain 
 **9.** Gaining contorl on protected content provider (exported=false) - https://blog.mzfr.me/posts/2021-06-24-unexported-component/ 
 
 **10.** Content provider exploitation ways - https://wiki.mzfr.me/Android/Content_Providers/ (NICE)
+
+11. SQLi and info disclosure via content provider - https://meetcyber.net/150-bug-bounty-sql-injection-in-nextcloud-android-content-provider-87bda01ea633
