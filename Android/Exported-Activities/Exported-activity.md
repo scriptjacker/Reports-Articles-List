@@ -40,3 +40,5 @@
 16. Exported activity is true - https://hackerone.com/reports/1455987
 
 **17.** Exported Activity in webview leads XSS and steal JWT chainig - https://medium.com/@AlQa3Qa3_M0X0101/how-i-was-able-to-get-account-takeover-via-insecure-data-storage-and-webview-with-exported-activity-5308a330ab80
+
+18. Exported activity leads token steal - https://hackerone.com/reports/1122177
