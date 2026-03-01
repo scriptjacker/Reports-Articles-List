@@ -11,3 +11,5 @@ It take URL, it act like hyperlink in web.
 5. Openredirect using deeplink - https://hackerone.com/reports/424443
 
 6. ATO exploitation using deeplink - https://hackerone.com/reports/855618
+
+7. Insecure deeplink leads CSRF - https://hackerone.com/reports/583987
