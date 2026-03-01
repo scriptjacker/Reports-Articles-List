@@ -19,3 +19,5 @@ It can be in many places like `R/W in external or internal storage`, `sensitive 
 8. In file storage - https://pallabjyoti218.medium.com/android-insecure-file-storage-e770eed9a3fa (/data/data/app/files)
 
 9. In logcat, class - https://medium.com/@princeoffl/exploring-common-vulnerabilities-in-android-insecure-logging-hardcoded-credentials-insecure-data-a3c9e0cb2611
+
+10 Oauth token leaked via logcat - https://hackerone.com/reports/5314
