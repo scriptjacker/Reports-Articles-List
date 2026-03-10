@@ -1,1 +1,1 @@
-1. 
+1. Chaining Prompt Injection -> Automatic Tool Invocation -> ASCII Smuggling to Data ExFiltration - https://embracethered.com/blog/posts/2024/m365-copilot-prompt-injection-tool-invocation-and-data-exfil-using-ascii-smuggling/ (NICE CHAINING)
