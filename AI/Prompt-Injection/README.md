@@ -3,3 +3,5 @@
 2. Indirect Conditional Prompt Injection via Email - https://embracethered.com/blog/posts/2024/whoami-conditional-prompt-injection-instructions/ (It can be in DOC and other form also. In this if certain condition meet then it work and can be diff for diff users)
 
 3. Prompt Injection & Image Markdown Injection leads Data ExFiltration - https://embracethered.com/blog/posts/2024/google-aistudio-mass-data-exfil/
+
+4. Indirect prompt injection in diffrent products using <bos> and <eos> markers - https://www.hiddenlayer.com/research/new-gemini-for-workspace-vulnerability-enabling-phishing-content-manipulation
