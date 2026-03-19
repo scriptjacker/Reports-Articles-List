@@ -5,3 +5,5 @@
 3. Prompt Injection & Image Markdown Injection leads Data ExFiltration - https://embracethered.com/blog/posts/2024/google-aistudio-mass-data-exfil/
 
 4. Indirect prompt injection in diffrent products using <bos> and <eos> markers - https://www.hiddenlayer.com/research/new-gemini-for-workspace-vulnerability-enabling-phishing-content-manipulation
+
+5. Direct & Indirect Prompt Injection leads Data exfiltration & modifying bot permissions - https://gccybermonks.com/posts/github/
