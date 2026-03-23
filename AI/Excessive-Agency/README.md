@@ -1,1 +1,1 @@
-1. https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts-on-third-party-websites-and-sensitive-data
+1. Oauth Flow allow to install any malicious plugin & zero click ATO on plugins - https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts-on-third-party-websites-and-sensitive-data (3rd party plugins given execessive access & related to IDOR also)
