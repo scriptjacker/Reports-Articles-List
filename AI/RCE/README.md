@@ -1,0 +1,1 @@
+1. Shelltorch CVE-2023-43654 in Torchserve via SSRF in Pytorch in LLMs - https://www.oligo.security/blog/shelltorch-explained-multiple-vulnerabilities-in-pytorch-model-server#the-story-behind-shelltorch (Exploit - https://github.com/OligoCyberSecurity/CVE-2023-43654)
