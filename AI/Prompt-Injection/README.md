@@ -7,3 +7,5 @@
 4. Indirect prompt injection in diffrent products using <bos> and <eos> markers - https://www.hiddenlayer.com/research/new-gemini-for-workspace-vulnerability-enabling-phishing-content-manipulation
 
 5. Direct & Indirect Prompt Injection leads Data exfiltration & modifying bot permissions - https://gccybermonks.com/posts/github/
+
+6. Direct Prompt Injection CVE-2024-5565 leads RCE - https://jfrog.com/blog/prompt-injection-attack-code-execution-in-vanna-ai-cve-2024-5565/ (good analysis about function calling, SQL queries, methodology to understand how to build prompt)
