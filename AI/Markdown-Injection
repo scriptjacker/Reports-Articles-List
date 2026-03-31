@@ -1,2 +1,4 @@
 
 1. Markdown Injection & Prompt Injection sends page sensitive data to attacker - https://embracethered.com/blog/posts/2023/bing-chat-data-exfiltration-poc-and-fix/
+
+2. Post exploitation via markdown injection leads persistnt data exfiltration - https://www.imperva.com/blog/from-chatbot-to-spybot-chatgpt-post-exploitation/
