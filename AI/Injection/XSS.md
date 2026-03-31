@@ -1,0 +1,1 @@
+1. XSS exploitation via blob & qutation from file - https://www.imperva.com/blog/xss-marks-the-spot-digging-up-vulnerabilities-in-chatgpt/ (It also include how the CSP was bypassed and how the impact of XSS got increased)
