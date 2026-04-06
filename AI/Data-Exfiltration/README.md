@@ -7,3 +7,5 @@ We can lead Data Exfiltration in many ways.
 3. Data ExFiltration via image rendering - https://embracethered.com/blog/posts/2024/google-ai-studio-data-exfiltration-now-fixed/
 
 4. Very clever way for manipulating AI for sharing sensitive information & Data Exfiltration - https://medium.com/@kiranmaraju/bypass-instructions-to-manipulate-google-bard-ai-conversational-generative-ai-chatbot-to-reveal-ac23156d5eee
+
+5. Direct & Indirect prompt injection leads data exfiltration via markdown image - https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/
