@@ -9,3 +9,5 @@
 5. Direct & Indirect Prompt Injection leads Data exfiltration & modifying bot permissions - https://gccybermonks.com/posts/github/
 
 6. Direct Prompt Injection CVE-2024-5565 leads RCE - https://jfrog.com/blog/prompt-injection-attack-code-execution-in-vanna-ai-cve-2024-5565/ (good analysis about function calling, SQL queries, methodology to understand how to build prompt)
+
+7. Direct & Indirect prompt injection leads data exfiltration via markdown image - https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/
