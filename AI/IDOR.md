@@ -1,0 +1,1 @@
+1. IDOR in upload image functionality in AI chatbot - https://www.landh.tech/blog/20240304-google-hack-50000/ (We could upload a image form user 1 and intercept requast, later change the body with user 2 image)
