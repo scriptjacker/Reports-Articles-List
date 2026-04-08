@@ -11,3 +11,5 @@
 6. Direct Prompt Injection CVE-2024-5565 leads RCE - https://jfrog.com/blog/prompt-injection-attack-code-execution-in-vanna-ai-cve-2024-5565/ (good analysis about function calling, SQL queries, methodology to understand how to build prompt)
 
 7. Direct & Indirect prompt injection leads data exfiltration via markdown image - https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/
+
+8. Indirect prompt injeciton via google docs upload with malicious instruction and markdown injeciton with CSP Bypass leads data exfiltration - https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/
