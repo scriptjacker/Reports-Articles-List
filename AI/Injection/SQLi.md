@@ -1,0 +1,1 @@
+1. SQLi because AI chatbot was having functionality to execute SQL queries and interact with DB - https://www.synack.com/exploits-explained/dumping-a-database-with-an-ai-chatbot/ (It could also lead to RCE and LFI)
