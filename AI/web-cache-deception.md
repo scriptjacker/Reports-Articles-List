@@ -1,1 +1,1 @@
-1. Web cache deception is share chat option in AI chatgpt leads ATO - https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html (This can also be found in see history, share chats, uuids places)
+1. Web cache deception is share chat option in AI chatgpt leads ATO - https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html (This explain form finding to esclation and this can also be found in see history, share chats, uuids places)
