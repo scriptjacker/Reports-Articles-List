@@ -13,3 +13,5 @@
 7. Direct & Indirect prompt injection leads data exfiltration via markdown image - https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/
 
 8. Indirect prompt injeciton via google docs upload with malicious instruction and markdown injeciton with CSP Bypass leads data exfiltration - https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/
+
+9. Indirect prompt inject in TXT file via upload folder/file option in markdown - https://embracethered.com/blog/posts/2024/google-aistudio-mass-data-exfil/
