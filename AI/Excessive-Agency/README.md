@@ -2,4 +2,4 @@
 
 2. Indirect Prompt inject integrated with plugin that have access to Oauth or other auth flow directly do malicious actions without user permission - https://embracethered.com/blog/posts/2023/chatgpt-plugin-vulns-chat-with-code
 
-3. 1. This includes CPRF, confused deputy (excessive agency), indirect prompt injection and full exploit chain with proper explanation of paylaod - https://embracethered.com/blog/posts/2023/chatgpt-cross-plugin-request-forgery-and-prompt-injection./ (NICE)
+3. This includes CPRF, confused deputy (excessive agency), indirect prompt injection and full exploit chain with proper explanation of paylaod - https://embracethered.com/blog/posts/2023/chatgpt-cross-plugin-request-forgery-and-prompt-injection./ (NICE)
