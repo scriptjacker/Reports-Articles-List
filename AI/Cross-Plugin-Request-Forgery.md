@@ -1,0 +1,1 @@
+1. This includes CPRF, confused deputy (excessive agency), indirect prompt injection and full exploit chain with proper explanation of paylaod - https://embracethered.com/blog/posts/2023/chatgpt-cross-plugin-request-forgery-and-prompt-injection./ 
