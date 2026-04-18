@@ -18,4 +18,7 @@
 
 10. Indirect prompt injection in txt file leads data exfiltration - https://embracethered.com/blog/posts/2024/aws-amazon-q-fixes-markdown-rendering-vulnerability/
 
-11. 2. Indirect Prompt inject integrated with plugin that have access to Oauth or other auth flow directly do malicious actions without user permission - https://embracethered.com/blog/posts/2023/chatgpt-plugin-vulns-chat-with-code
+11. Indirect Prompt inject integrated with plugin that have access to Oauth or other auth flow directly do malicious actions without user permission - https://embracethered.com/blog/posts/2023/chatgpt-plugin-vulns-chat-with-code
+
+12. Indirect prompt injection can leads to change AI behaviour & become scammer - https://greshake.github.io/
+       
