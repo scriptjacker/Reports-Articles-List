@@ -11,3 +11,5 @@ We can lead Data Exfiltration in many ways.
 5. Direct & Indirect prompt injection leads data exfiltration via markdown image - https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/
 
 6. Indirect prompt injeciton via google docs upload with malicious instruction and markdown injeciton with CSP Bypass leads data exfiltration - https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/
+
+7. LLM Threats & data exfiltration via hyperlink - https://embracethered.com/blog/posts/2023/ai-injections-threats-context-matters/
