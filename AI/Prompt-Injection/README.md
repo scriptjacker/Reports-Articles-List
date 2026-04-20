@@ -22,4 +22,4 @@
 
 12. Indirect prompt injection can leads to change AI behaviour & become scammer - https://greshake.github.io/
 
-13. Indirect prompt injection via Youtube (video) Transcript - https://embracethered.com/blog/posts/2023/chatgpt-plugin-youtube-indirect-prompt-injection/ (AI was having integration to summarize the video, so the paylaod was in transcript)
+13. Indirect prompt injection via Youtube (video) Transcript - https://embracethered.com/blog/posts/2023/chatgpt-plugin-youtube-indirect-prompt-injection/ (AI was having plugin to summarize the video, so the paylaod was in transcript)
