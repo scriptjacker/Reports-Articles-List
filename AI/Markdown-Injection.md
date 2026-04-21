@@ -8,3 +8,5 @@
 4. Indirect prompt injeciton via google docs upload with malicious instruction and markdown injeciton with CSP Bypass leads data exfiltration - https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/
 
 5. Markdown injection leads data exfiltration with indirect prompt injection - https://embracethered.com/blog/posts/2024/google-aistudio-mass-data-exfil/
+
+6. methodology and ways in which it tells that how Markdown can be used to exploit & data exfiltration - https://kajojify.github.io/articles/1_chatgpt_attack.pdf (NICE)
