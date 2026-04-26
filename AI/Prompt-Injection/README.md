@@ -25,3 +25,5 @@
 13. Indirect prompt injection via Youtube (video) Transcript - https://embracethered.com/blog/posts/2023/chatgpt-plugin-youtube-indirect-prompt-injection/ (AI was having plugin to summarize the video, so the paylaod was in transcript)
 
 14. Knowledge about prompt injections and how it can lead to cause data exfiltration, confused deputy, etc - https://simonw.substack.com/p/the-dual-llm-pattern-for-building?open=false#%C2%A7confused-deputy-attacks
+
+15. Automatic tool invocation can can cause automatic memory updation or deletion via indirect prompt injection - https://embracethered.com/blog/posts/2024/llm-apps-automatic-tool-invocations/
