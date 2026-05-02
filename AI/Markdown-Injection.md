@@ -10,3 +10,5 @@
 5. Markdown injection leads data exfiltration with indirect prompt injection - https://embracethered.com/blog/posts/2024/google-aistudio-mass-data-exfil/
 
 6. methodology and ways in which it tells that how Markdown can be used to exploit & data exfiltration along with webiste to geenrate markdown injectioon prompts - https://kajojify.github.io/articles/1_chatgpt_attack.pdf, https://prompt-injection.onrender.com/ (NICE)
+
+7. Combining Jailbreak & Markdown injection leads XSS and fetch cookies - https://packetstormsecurity.com/files/171665/ChatGPT-Cross-Site-Scripting.html
