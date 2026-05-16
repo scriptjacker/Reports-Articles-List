@@ -1,0 +1,1 @@
+1. Resource Theft, Coversation Hijakcing & Tool Invocation using prompt injection in MCP - https://unit42.paloaltonetworks.com/model-context-protocol-attack-vectors/ (MCP sampling enables all these attack, because MCP take help with AI)
