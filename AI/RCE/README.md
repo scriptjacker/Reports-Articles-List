@@ -5,3 +5,5 @@
 3. Prompt Injection and trying it bypasses i.e Base 64 and analysing the request leads to execute system commands and python code - https://www.blazeinfosec.com/post/llm-pentest-agent-hacking/ (In response of AI it was not executing the paylaod, however in knowledge parameter in response in burp)
 
 4. Prompt Injection & ASCII smuggling (CVE-2025-53773) leads RCE - https://embracethered.com/blog/posts/2025/github-copilot-remote-code-execution-via-prompt-injection/ (Also confused deputy kind of and via vulnerable MCP)
+
+5. RCE via MCP Curosr IDE JSON file configuration (CVE-2025-54136) - https://research.checkpoint.com/2025/cursor-vulnerability-mcpoison/
