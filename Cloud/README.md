@@ -9,3 +9,5 @@ In this I will include all the cool reports, articles and other notes which will
 4. S3 bucket takeover via unclaimed bucket - https://hackerone.com/reports/1285598 (In github repo bash script)
 
 5. AWS S3 bucket writeable for authenticated aws users - https://hackerone.com/reports/128088
+
+6. Open S3 Bucket WriteAble To Any Aws User - https://hackerone.com/reports/209223
