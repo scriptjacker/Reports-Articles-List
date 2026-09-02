@@ -7,3 +7,5 @@ In this I will include all the cool reports, articles and other notes which will
 3. Exposed Firebase Storage Bucket - https://medium.com/@mustafamohammed789mm/firebase-misconfigurations-from-discovery-to-exploitation-0a282b81ad4f (In Google Firebase Storage Bucket
 
 4. S3 bucket takeover via unclaimed bucket - https://hackerone.com/reports/1285598 (In github repo bash script)
+
+5. AWS S3 bucket writeable for authenticated aws users - https://hackerone.com/reports/128088
