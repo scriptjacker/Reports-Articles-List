@@ -13,3 +13,5 @@ In this I will include all the cool reports, articles and other notes which will
 6. Open S3 Bucket WriteAble To Any Aws User - https://hackerone.com/reports/209223
 
 7. Public buckets & cloud misconfig using googlr dorks - https://infosecwriteups.com/discovering-cloud-misconfigurations-with-google-dorks-c683274abc90 (Other search engine dorks like shodan, censys, fofa, etc can be also used)
+
+8. Every misconfig about AWS S3, GCP storage, Azure blob & Firebase storage - https://medium.com/@anas-nady/everything-about-cloud-bucket-hacking-s3-gcs-azure-firebase-c027e9441ff9
