@@ -11,3 +11,5 @@ In this I will include all the cool reports, articles and other notes which will
 5. AWS S3 bucket writeable for authenticated aws users - https://hackerone.com/reports/128088
 
 6. Open S3 Bucket WriteAble To Any Aws User - https://hackerone.com/reports/209223
+
+7. Public buckets & cloud misconfig using googlr dorks - https://infosecwriteups.com/discovering-cloud-misconfigurations-with-google-dorks-c683274abc90 (Other search engine dorks like shodan, censys, fofa, etc can be also used)
