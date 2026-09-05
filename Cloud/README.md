@@ -21,3 +21,5 @@ In this I will include all the cool reports, articles and other notes which will
 10. AWS keys and user cookie leakage via uninitialized memory leak in outdated librsvg version in Basecamp - https://hackerone.com/reports/2107680 - Nice
 
 11. SSRF allows reading AWS EC2 metadata using "readapi" variable in cloudbot - https://hackerone.com/reports/1108418
+
+12. Route53 Subdomain Takeover - https://hackerone.com/reports/794382
