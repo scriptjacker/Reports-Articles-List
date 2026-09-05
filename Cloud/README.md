@@ -19,3 +19,5 @@ In this I will include all the cool reports, articles and other notes which will
 9. AWS cognito misconfigs - https://infosecwriteups.com/attacking-aws-common-cognito-misconfigurations-a898bf092218#8005 (Like signup bypass, prv esc, info disclosure) - Nice
 
 10. AWS keys and user cookie leakage via uninitialized memory leak in outdated librsvg version in Basecamp - https://hackerone.com/reports/2107680 - Nice
+
+11. SSRF allows reading AWS EC2 metadata using "readapi" variable in cloudbot - https://hackerone.com/reports/1108418
