@@ -27,3 +27,5 @@ In this I will include all the cool reports, articles and other notes which will
 13. Open AWS S3 bucket leaks all Images uploaded to Zomato chat - https://hackerone.com/reports/507097
 
 14. AWS Firehose secret access key leak in JS file - https://hackerone.com/reports/2914739 (It was in base64 encoded format in JS file)
+
+15. AWS access token was discovered in MSI file - https://hackerone.com/reports/1368690 (reverse engineered the MSI file and got creds)
