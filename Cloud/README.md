@@ -23,3 +23,5 @@ In this I will include all the cool reports, articles and other notes which will
 11. SSRF allows reading AWS EC2 metadata using "readapi" variable in cloudbot - https://hackerone.com/reports/1108418
 
 12. Route53 Subdomain Takeover - https://hackerone.com/reports/794382
+
+13. Open AWS S3 bucket leaks all Images uploaded to Zomato chat - https://hackerone.com/reports/507097
