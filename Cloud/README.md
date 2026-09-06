@@ -25,3 +25,5 @@ In this I will include all the cool reports, articles and other notes which will
 12. Route53 Subdomain Takeover - https://hackerone.com/reports/794382
 
 13. Open AWS S3 bucket leaks all Images uploaded to Zomato chat - https://hackerone.com/reports/507097
+
+14. AWS Firehose secret access key leak in JS file - https://hackerone.com/reports/2914739 (It was in base64 encoded format in JS file)
