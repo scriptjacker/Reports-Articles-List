@@ -31,3 +31,7 @@ In this I will include all the cool reports, articles and other notes which will
 15. AWS access token was discovered in MSI file - https://hackerone.com/reports/1368690 (reverse engineered the MSI file and got creds)
 
 16. Unauthenticated open S3 buckets - https://hackerone.com/reports/819278
+
+17. SSRF to victim GCP takeover by extracting Authorization Token & CSRF Bypass - https://blog.geekycat.in/posts/client-side-ssrf-to-google-cloud-project-takeover
+
+18. Open S3 bucket via File Upload - https://medium.com/sourav-sahana/how-i-earn-500-from-razer-open-s3-bucket-fe314e4bbab8  
