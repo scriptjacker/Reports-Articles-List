@@ -34,4 +34,6 @@ In this I will include all the cool reports, articles and other notes which will
 
 17. SSRF to victim GCP takeover by extracting Authorization Token & CSRF Bypass - https://blog.geekycat.in/posts/client-side-ssrf-to-google-cloud-project-takeover
 
-18. Open S3 bucket via File Upload - https://medium.com/sourav-sahana/how-i-earn-500-from-razer-open-s3-bucket-fe314e4bbab8  
+18. Open S3 bucket via File Upload - https://medium.com/sourav-sahana/how-i-earn-500-from-razer-open-s3-bucket-fe314e4bbab8
+
+19. Azure Insights Misconfig - https://medium.com/%40salaheddine_kalada/exploiting-misconfigured-azure-application-insights-a-1000-bug-bounty-win-cf16f6ad2ff0 (Instrumentation Key ikey was leaked in /env/env.json file and was not having proper authentication and authorization configs)
